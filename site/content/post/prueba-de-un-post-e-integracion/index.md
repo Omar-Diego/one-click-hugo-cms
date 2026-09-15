@@ -37,8 +37,6 @@ dRepitiendo, es una template de un servicio de Decap CMS, par auna integracion y
 
 ###### Cinco
 
-
-
 Como nota tiene para agregar directamente un Markdown, que es lo ideal.
 
 ```python
